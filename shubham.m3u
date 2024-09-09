@@ -17,7 +17,7 @@ http://172.105.123.238:18002/play/a01n
 http://b1g.ooo:80/93736/93736/161948
 
 #EXTINF:-1 tvg-id="1" group-title="MOVIES" tvg-language="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Star_Gold_2011.png/revision/latest?cb=20110928224035",STAR GOLD
-http://b1g.ooo:80/93736/93736/161928
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=58174&extension=ts
 
 #EXTINF:-1 tvg-id="1" group-title="MOVIES" tvg-language="Hindi" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FiwxMxXyV.png&w=256&q=75",STAR GOLD SELECT
 http://116.202.46.40:9023/STAR_GOLD_SELECT_HINDI/index.m3u8
