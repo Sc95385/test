@@ -45,3 +45,6 @@ https://public.rkmiptv.fun/smart.php?id=2793
 
 #EXTINF:-1 tvg-logo="https://i.imghippo.com/files/0aC0O1723711024.jpg" group-title="MOVIES", SONY PIX HINDI HD
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/96182
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/2Ewku1724416900.jpg" group-title="MOVIES", MASTII
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
