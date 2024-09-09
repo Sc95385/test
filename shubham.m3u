@@ -37,11 +37,8 @@ https://allinonereborn.com/livetv-web/live.php?id=644&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="MOVIES" ,SONY MARATHI
 https://allinonereborn.com/livetv-web/live.php?id=896&vtoken=&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="MOVIES" ,SONY MARATHI HD
-https://allinonereborn.com/4k/portal.php?id=9882
-
 #EXTINF:-1 tvg-logo="https://i.imghippo.com/files/0aC0O1723711024.jpg" group-title="MOVIES", SONY PIX HINDI HD
-https://allinonereborn.com/livetv-web/live.php?id=630
+https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1488
 
 #EXTINF:-1 tvg-logo="https://i.imghippo.com/files/2Ewku1724416900.jpg" group-title="MOVIES", MASTII
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
