@@ -20,7 +20,7 @@ http://b1g.ooo:80/93736/93736/161948
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=58174&extension=ts
 
 #EXTINF:-1 tvg-id="1" group-title="MOVIES" tvg-language="Hindi" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FiwxMxXyV.png&w=256&q=75",STAR GOLD SELECT
-http://116.202.46.40:9023/STAR_GOLD_SELECT_HINDI/index.m3u8
+https://allinonereborn.com/livetv-web/live.php?id=647&vtoken=&e=.m3u8
 
 #EXTINF:-1 tvg-id="1" group-title="MOVIES" tvg-language="Hindi" tvg-logo="https://w7.pngwing.com/pngs/648/291/png-transparent-star-movies-television-channel-fox-movies-logo-star-movie-television-text-film.png",STAR MOVIES
 http://212.102.34.8:9080/StarMoviesHD/video.m3u8
@@ -38,10 +38,13 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=294975&ex
 https://allinonereborn.com/tatatv.php?id=232269
 
 #EXTINF:-1 tvg-logo="https://i.imghippo.com/files/ogjn81723969047.png" group-title="MOVIES", SONY TV
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=203
+https://allinonereborn.com/livetv-web/live.php?id=624&vtoken=&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" group-title="MOVIES" ,SONY MAX
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=104808&extension=ts
+https://allinonereborn.com/livetv-web/live.php?id=644&vtoken=&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="MOVIES" ,SONY MARATHI
+https://allinonereborn.com/livetv-web/live.php?id=896&vtoken=&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imghippo.com/files/0aC0O1723711024.jpg" group-title="MOVIES", SONY PIX HINDI HD
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/96182
