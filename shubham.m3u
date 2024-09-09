@@ -1,15 +1,20 @@
-Shubham
 #EXTINF:-1 tvg-id="1" group-title="MOVIES" tvg-language="Hindi" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2022/04/Disney-Star-to-launch-a-dedicated-Marathi-movie-channel-Pravah-Picture-on-15th-May.jpg",STAR PARVAH PICTURES
-https://mrking.site/JINTV/stalker.m3u8?id=18714
+https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=18714
+
+#EXTINF:-1 tvg-id="1" group-title="MOVIES" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Star_Pravah_2023.png/1200px-Star_Pravah_2023.png",STAR PARVAH 
+https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1717
 
 #EXTINF:-1 tvg-id="1" group-title="MOVIES" tvg-language="Hindi" tvg-logo="https://www.exchange4media.com/news-photo/127692-big-2023-05-30T131919.359.jpg",STAR GOLD THRILLS
-https://mrking.site/JINTV/stalker.m3u8?id=238
+http://172.105.123.238:18002/play/a01h
+
+#EXTINF:-1 tvg-id="1" group-title="MOVIES" tvg-language="Hindi" tvg-logo="https://www.exchange4media.com/news-photo/127692-big-2023-05-30T131919.359.jpg",STAR GOLD THRILLS SD
+https://allinonereborn.com/4k/m3u.php?id=5737
 
 #EXTINF:-1 tvg-id="1" group-title="MOVIES" tvg-language="Hindi" tvg-logo="https://dynamitedesign.tv/images/work/STAR%20UTSAV%20MOVIES/starutsav_1.jpg",STAR UTSAV  MOVIES
-https://mrking.site/JINTV/stalker.m3u8?id=245
+http://172.105.123.238:18002/play/a01n
 
 #EXTINF:-1 tvg-id="1" group-title="MOVIES" tvg-language="Hindi" tvg-logo="https://s3.ap-southeast-1.amazonaws.com/dlg.dialog.lk/s3fs-public/2023-05/113-sgr_0.png",STAR GOLD ROMANCE
-https://mrking.site/JINTV/stalker.m3u8?id=47861
+http://b1g.ooo:80/93736/93736/161948
 
 #EXTINF:-1 tvg-id="1" group-title="MOVIES" tvg-language="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Star_Gold_2011.png/revision/latest?cb=20110928224035",STAR GOLD
 http://116.202.46.40:9023/STAR_GOLD_HINDI/index.m3u8
@@ -21,7 +26,7 @@ http://116.202.46.40:9023/STAR_GOLD_SELECT_HINDI/index.m3u8
 http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 
 #EXTINF:-1 tvg-id="1" group-title="MOVIES" tvg-language="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg/revision/latest?cb=20211215235613",STAR GOLD 2
-https://mrking.site/JINTV/stalker.m3u8?id=247
+http://119.156.26.155:8000/play/a07p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imghippo.com/files/FUWMc1723650706.webp" group-title="MOVIES",STAR UTSAV MOVIES
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/96178
