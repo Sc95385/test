@@ -10,11 +10,8 @@ http://172.105.123.238:18002/play/a01h
 #EXTINF:-1 tvg-id="1" group-title="MOVIES" tvg-language="Hindi" tvg-logo="https://www.exchange4media.com/news-photo/127692-big-2023-05-30T131919.359.jpg",STAR GOLD THRILLS SD
 https://allinonereborn.com/4k/m3u.php?id=5737
 
-#EXTINF:-1 tvg-id="1" group-title="MOVIES" tvg-language="Hindi" tvg-logo="https://dynamitedesign.tv/images/work/STAR%20UTSAV%20MOVIES/starutsav_1.jpg",STAR UTSAV  MOVIES
+#EXTINF:-1 tvg-id="1" group-title="MOVIES" tvg-language="Hindi" tvg-logo="https://dynamitedesign.tv/images/work/STAR%20UTSAV%20MOVIES/starutsav_1.jpg",STAR UTSAV MOVIES
 http://172.105.123.238:18002/play/a01n
-
-#EXTINF:-1 tvg-id="1" group-title="MOVIES" tvg-language="Hindi" tvg-logo="https://s3.ap-southeast-1.amazonaws.com/dlg.dialog.lk/s3fs-public/2023-05/113-sgr_0.png",STAR GOLD ROMANCE
-http://b1g.ooo:80/93736/93736/161948
 
 #EXTINF:-1 tvg-id="1" group-title="MOVIES" tvg-language="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Star_Gold_2011.png/revision/latest?cb=20110928224035",STAR GOLD
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=58174&extension=ts
@@ -28,14 +25,8 @@ http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 #EXTINF:-1 tvg-id="1" group-title="MOVIES" tvg-language="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg/revision/latest?cb=20211215235613",STAR GOLD 2
 http://119.156.26.155:8000/play/a07p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/FUWMc1723650706.webp" group-title="MOVIES",STAR UTSAV MOVIES
-http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/96178
-
 #EXTINF:-1 tvg-logo="https://i.imghippo.com/files/efa0K1723365208.jpg" group-title="MOVIES",STAR GOLD ROMANCE SD
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=294975&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/QAmOL1723708746.jpg" group-title="MOVIES", STAR GOLD ROMANCE HD
-https://allinonereborn.com/tatatv.php?id=232269
 
 #EXTINF:-1 tvg-logo="https://i.imghippo.com/files/ogjn81723969047.png" group-title="MOVIES", SONY TV
 https://allinonereborn.com/livetv-web/live.php?id=624&vtoken=&e=.m3u8
@@ -47,7 +38,7 @@ https://allinonereborn.com/livetv-web/live.php?id=644&vtoken=&e=.m3u8
 https://allinonereborn.com/livetv-web/live.php?id=896&vtoken=&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imghippo.com/files/0aC0O1723711024.jpg" group-title="MOVIES", SONY PIX HINDI HD
-http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/96182
+https://allinonereborn.com/livetv-web/live.php?id=630&vtoken=&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imghippo.com/files/2Ewku1724416900.jpg" group-title="MOVIES", MASTII
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
