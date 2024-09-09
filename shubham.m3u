@@ -32,7 +32,7 @@ http://119.156.26.155:8000/play/a07p/index.m3u8
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/96178
 
 #EXTINF:-1 tvg-logo="https://i.imghippo.com/files/efa0K1723365208.jpg" group-title="MOVIES",STAR GOLD ROMANCE SD
-https://public.rkmiptv.fun/smart.php?id=11688
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=294975&extension=ts
 
 #EXTINF:-1 tvg-logo="https://i.imghippo.com/files/QAmOL1723708746.jpg" group-title="MOVIES", STAR GOLD ROMANCE HD
 https://allinonereborn.com/tatatv.php?id=232269
@@ -40,8 +40,8 @@ https://allinonereborn.com/tatatv.php?id=232269
 #EXTINF:-1 tvg-logo="https://i.imghippo.com/files/ogjn81723969047.png" group-title="MOVIES", SONY TV
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=203
 
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" group-title="MOVIES" ,SONY MAX SD
-https://public.rkmiptv.fun/smart.php?id=2793
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" group-title="MOVIES" ,SONY MAX
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=104808&extension=ts
 
 #EXTINF:-1 tvg-logo="https://i.imghippo.com/files/0aC0O1723711024.jpg" group-title="MOVIES", SONY PIX HINDI HD
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/96182
